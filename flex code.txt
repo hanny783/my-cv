@@ -1,0 +1,14 @@
+.skills{
+  display: flex;
+  flex-direction: row;
+}
+.skills > .skill-row1{
+  margin: 20px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.skills > .skill-row2{
+  margin: 20px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
